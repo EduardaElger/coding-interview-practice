@@ -11,7 +11,7 @@ O objetivo é desenvolver **raciocínio algorítmico**, melhorar a capacidade de
 * Strings
 * Two Pointers
 * Sliding Window
-* Stack e Queue
+* Stack / Queue
 * Binary Search
 * Linked Lists
 * Trees
@@ -25,6 +25,7 @@ O objetivo é desenvolver **raciocínio algorítmico**, melhorar a capacidade de
 
 ```text
 coding-interview-practice/
+
 ├── 01-arrays/
 ├── 02-hash-map/
 ├── 03-two-pointers/
@@ -38,7 +39,7 @@ coding-interview-practice/
 └── 11-dynamic-programming/
 ```
 
-Cada diretório contém exercícios relacionados ao respectivo tema.
+Cada diretório contém exercícios relacionados ao respectivo tema ou padrão algorítmico.
 
 ## 🎯 Prática
 
@@ -50,7 +51,8 @@ Para cada problema, o objetivo é:
 4. Implementar a solução em Go;
 5. Analisar complexidade de tempo e espaço;
 6. Considerar casos extremos;
-7. Escrever testes quando aplicável.
+7. Escrever testes quando aplicável;
+8. Explicar a solução e as decisões tomadas.
 
 ## 💻 Linguagem
 
@@ -59,18 +61,37 @@ Para cada problema, o objetivo é:
 ## 📈 Progresso
 
 * [ ] Arrays
-* [ ] Hash Maps / Hash Sets
-* [ ] Two Pointers
-* [ ] Sliding Window
+* [x] Hash Maps / Hash Sets
+* [x] Two Pointers
+* [x] Sliding Window
 * [ ] Stack / Queue
 * [ ] Binary Search
 * [ ] Linked Lists
 * [ ] Trees
-* [ ] Heaps
+* [ ] Heaps / Priority Queues
 * [ ] Graphs
 * [ ] Recursion / Backtracking
 * [ ] Dynamic Programming
 
+## 🧩 Problemas praticados
+
+### Hash Maps / Hash Sets
+
+* **Two Sum** — Hash Map — `O(n)`
+* **Valid Anagram** — Hash Map — `O(n)`
+
+### Two Pointers
+
+* **Valid Palindrome** — Two Pointers — `O(n)`
+
+### Sliding Window
+
+* **Maximum Subarray Sum of Size K** — Sliding Window — `O(n)`
+
 ## 📝 Observações
 
-Este repositório é utilizado como material de estudo e prática contínua. As soluções podem ser revisadas e otimizadas conforme novos conceitos e padrões são aprendidos.
+Este repositório é utilizado como material de estudo e prática contínua.
+
+As soluções podem ser revisadas e otimizadas conforme novos conceitos e padrões são aprendidos.
+
+O foco não é apenas resolver os problemas, mas entender **por que uma solução funciona**, identificar padrões reutilizáveis e desenvolver uma abordagem consistente para problemas de entrevistas técnicas.
