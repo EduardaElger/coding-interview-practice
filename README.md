@@ -94,4 +94,3 @@ Este repositório é utilizado como material de estudo e prática contínua.
 
 As soluções podem ser revisadas e otimizadas conforme novos conceitos e padrões são aprendidos.
 
-O foco não é apenas resolver os problemas, mas entender **por que uma solução funciona**, identificar padrões reutilizáveis e desenvolver uma abordagem consistente para problemas de entrevistas técnicas.
